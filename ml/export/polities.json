@@ -1,0 +1,4587 @@
+[
+ {
+  "id": "XIONGNU",
+  "name_kz": "Ғұн (Хунну) мемлекеті",
+  "region_kz": "Шығыс",
+  "founded": -209,
+  "collapse_year": 48,
+  "lifespan": 257,
+  "collapse_type_kz": "бөліну",
+  "collapse_desc_kz": "Солтүстік және Оңтүстік ғұндарға бөлінуі (б.з. 48 ж.)",
+  "static": {
+   "succession_system": 1,
+   "appanage_system": 1,
+   "sedentarization": 0,
+   "own_script": 0,
+   "written_law": 0,
+   "heterogeneity": 2
+  },
+  "sources": "Сыма Цянь «Ши цзи», 110-тарау; «Хань шу», 94-тарау; Н.Я. Бичурин; Barfield 1989; Крадин «Империя хунну» (2002)",
+  "windows": [
+   {
+    "start": -209,
+    "end": -177,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 1,
+     "long_ruler_death": 0,
+     "succession_conflict": 0,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.125,
+    "risk_fit": 0.106,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "n_rulers",
+      "contribution": 0.013
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Мөде: дунхуларды талқандауы, юэчжилерді ығыстыруы; Байдэндегі жеңіс (б.з.д. 200); хэцинь келісімі — Хань алым төлейді"
+   },
+   {
+    "start": -177,
+    "end": -152,
+    "features": {
+     "age_at_start": 32,
+     "n_rulers": 3,
+     "long_ruler_death": 1,
+     "succession_conflict": 0,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.068,
+    "risk_fit": 0.056,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "succession_system",
+      "contribution": 0.007
+     },
+     {
+      "key": "n_rulers",
+      "contribution": 0.003
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Мөденің қайтыс болуы (б.з.д. 174), Лаошан, Цзюньчэнь; хэцинь жалғасады"
+   },
+   {
+    "start": -152,
+    "end": -127,
+    "features": {
+     "age_at_start": 57,
+     "n_rulers": 1,
+     "long_ruler_death": 0,
+     "succession_conflict": 0,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.307,
+    "risk_fit": 0.232,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Цзюньчэнь; Хань императоры У-ди (141 жылдан) соғысқа дайындалады; Маи оқиғасы (б.з.д. 133) — хэциньнің аяқталуы"
+   },
+   {
+    "start": -127,
+    "end": -102,
+    "features": {
+     "age_at_start": 82,
+     "n_rulers": 4,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 0,
+     "territory_trend": -1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.565,
+    "risk_fit": 0.475,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.117
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Цзюньчэннің өлімі (126), Ичжисенің билікті тартып алуы; Ордостан (127), Хэсиден (121) айырылу, Мобэйдегі жеңіліс (119)"
+   },
+   {
+    "start": -102,
+    "end": -77,
+    "features": {
+     "age_at_start": 107,
+     "n_rulers": 4,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 0,
+     "territory_trend": 0,
+     "disaster": 1,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.804,
+    "risk_fit": 0.711,
+    "top_drivers": [
+     {
+      "key": "disaster",
+      "contribution": 0.998
+     },
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Ли Лин (99) мен Ли Гуанлиді (90) жеңу; Хуяньдидің даулы таққа отыруы (85); б.з.д. 89 ж. шамасында қалың қар мен мал қырылуы"
+   },
+   {
+    "start": -77,
+    "end": -52,
+    "features": {
+     "age_at_start": 132,
+     "n_rulers": 5,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 1,
+     "neighbor_strength": 2,
+     "external_resources": 0,
+     "territory_trend": -1,
+     "disaster": 1,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.966,
+    "risk_fit": 0.95,
+    "top_drivers": [
+     {
+      "key": "disaster",
+      "contribution": 0.998
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Хань мен Үйсіннің соққысы (71), динлиндер мен ухуандардың шабуылы; 68 ж. ашаршылық; Батыс өлкеден айырылу (60); бес тәңірқұттың соғысы (57)"
+   },
+   {
+    "start": -52,
+    "end": -27,
+    "features": {
+     "age_at_start": 157,
+     "n_rulers": 3,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.46,
+    "risk_fit": 0.414,
+    "top_drivers": [
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "age_at_start",
+      "contribution": 0.084
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Хуханье Ханьға бағынады (51), Чжичжиді хандықтар өлтіреді (36); Хуханьенің өлімі (31)"
+   },
+   {
+    "start": -27,
+    "end": -2,
+    "features": {
+     "age_at_start": 182,
+     "n_rulers": 4,
+     "long_ruler_death": 0,
+     "succession_conflict": 0,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.307,
+    "risk_fit": 0.251,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "age_at_start",
+      "contribution": 0.11
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Билік ағадан інілерге бейбіт өтеді; Хань сыйлықтары"
+   },
+   {
+    "start": -2,
+    "end": 23,
+    "features": {
+     "age_at_start": 207,
+     "n_rulers": 3,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 0,
+     "external_resources": 1,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.14,
+    "risk_fit": 0.136,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "age_at_start",
+      "contribution": 0.137
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.026
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Учжулюдің өлімі (13); Ван Манның араласуы, Қытайдағы аласапыран"
+   },
+   {
+    "start": 23,
+    "end": 48,
+    "features": {
+     "age_at_start": 232,
+     "n_rulers": 3,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 0,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 0,
+     "territory_trend": 0,
+     "disaster": 1,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.918,
+    "risk_fit": 0.894,
+    "top_drivers": [
+     {
+      "key": "disaster",
+      "contribution": 0.998
+     },
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Худуэршидің өлімі (46); 46 ж. құрғақшылық пен шегіртке («адам мен малдың жартысы қырылды»); ухуандардың шабуылы; Би мен Пунудың таласы"
+   }
+  ]
+ },
+ {
+  "id": "ROURAN",
+  "name_kz": "Жужан қағанаты",
+  "region_kz": "Шығыс",
+  "founded": 402,
+  "collapse_year": 552,
+  "lifespan": 150,
+  "collapse_type_kz": "жаулап алу",
+  "collapse_desc_kz": "Бумын бастаған түркілердің талқандауы, Анагуйдің өз-өзін өлтіруі (552)",
+  "static": {
+   "succession_system": 1,
+   "appanage_system": 0,
+   "sedentarization": 0,
+   "own_script": 0,
+   "written_law": 0,
+   "heterogeneity": 1
+  },
+  "sources": "«Вэй шу», 103-тарау; «Бэй ши», 98-тарау; Кляшторный, Султанов 2004; Kradin 2005 (Rouran)",
+  "windows": [
+   {
+    "start": 402,
+    "end": 427,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 4,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 0,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 0,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.362,
+    "risk_fit": 0.225,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.117
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Шэлунь қаған лауазымын алады; 410–414 жж. төңкерістер (Датань); гаочэлерді бағындыру"
+   },
+   {
+    "start": 427,
+    "end": 452,
+    "features": {
+     "age_at_start": 25,
+     "n_rulers": 3,
+     "long_ruler_death": 1,
+     "succession_conflict": 0,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 1,
+     "territory_trend": -1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 0,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.327,
+    "risk_fit": 0.276,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.026
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Тоба Таоның күйрете жорығы (429), 443, 449 жж. жорықтар; Датань мен Удидің өлімі"
+   },
+   {
+    "start": 452,
+    "end": 477,
+    "features": {
+     "age_at_start": 50,
+     "n_rulers": 2,
+     "long_ruler_death": 1,
+     "succession_conflict": 0,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 1,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 0,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.086,
+    "risk_fit": 0.063,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.026
+     },
+     {
+      "key": "neighbor_strength",
+      "contribution": 0.012
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Тухэчжэннің өлімі (464); Тұрфанды басып алу (460)"
+   },
+   {
+    "start": 477,
+    "end": 502,
+    "features": {
+     "age_at_start": 75,
+     "n_rulers": 3,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 1,
+     "neighbor_strength": 2,
+     "external_resources": 1,
+     "territory_trend": -1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 0,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.762,
+    "risk_fit": 0.705,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Юйчэннің өлімі (485); гаочэлердің бөлініп кетуі (487); Доулунның өлтірілуі (492)"
+   },
+   {
+    "start": 502,
+    "end": 527,
+    "features": {
+     "age_at_start": 100,
+     "n_rulers": 5,
+     "long_ruler_death": 0,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": 0,
+     "disaster": 1,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 0,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.95,
+    "risk_fit": 0.934,
+    "top_drivers": [
+     {
+      "key": "disaster",
+      "contribution": 0.998
+     },
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Футуды гаочэлер өлтіреді (508); 520–521 жж. ішкі соғыс, Анагуй Вэйге қашады; ашаршылық; Вэйдегі алты бекініс көтерілісі"
+   },
+   {
+    "start": 527,
+    "end": 552,
+    "features": {
+     "age_at_start": 125,
+     "n_rulers": 1,
+     "long_ruler_death": 0,
+     "succession_conflict": 0,
+     "major_defeat": 0,
+     "rival_rise": 1,
+     "neighbor_strength": 0,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 0,
+     "sedentarization": 0
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.322,
+    "risk_fit": 0.488,
+    "top_drivers": [
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Вэйдің екіге бөлінуі (534) — екі жақ та Анагуйге алым төлейді; түркілердің күшеюі (546 ж. телелерді жеңу, 551 ж. құдалық)"
+   }
+  ]
+ },
+ {
+  "id": "HUNS",
+  "name_kz": "Ғұндар державасы (Еуропа)",
+  "region_kz": "Батыс",
+  "founded": 400,
+  "collapse_year": 454,
+  "lifespan": 54,
+  "collapse_type_kz": "бағынышты халықтардың көтерілісі",
+  "collapse_desc_kz": "Аттиланың өлімі (453), Недао шайқасы (454): гепидтер мен басқалар ұлдарының билігін құлатты",
+  "static": {
+   "succession_system": 1,
+   "appanage_system": 1,
+   "sedentarization": 0,
+   "own_script": 0,
+   "written_law": 0,
+   "heterogeneity": 2
+  },
+  "sources": "Приск Панийский (үзінділер); Иордан «Getica»; Maenchen-Helfen 1973; Kim 2013",
+  "windows": [
+   {
+    "start": 400,
+    "end": 429,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 4,
+     "long_ruler_death": 0,
+     "succession_conflict": 0,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.091,
+    "risk_fit": 0.118,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.026
+     }
+    ],
+    "confidence": "L",
+    "key_events_kz": "Ульдинді шығыс римдіктер жеңеді (408); Харатон, Октар және Руга; Паннонияға жылжу"
+   },
+   {
+    "start": 429,
+    "end": 454,
+    "features": {
+     "age_at_start": 29,
+     "n_rulers": 4,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 1,
+     "disaster": 1,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.195,
+    "risk_fit": 0.451,
+    "top_drivers": [
+     {
+      "key": "disaster",
+      "contribution": 0.998
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Бледаның өлтірілуі (445); Константинопольдің жылына 2100 фунт алтын алымы (447); Каталаун даласы (451); Италиядағы ашаршылық пен індет (452); Аттиланың өлімі, ұлдарының таласы (453)"
+   }
+  ]
+ },
+ {
+  "id": "TURK1",
+  "name_kz": "Бірінші Түрік қағанаты",
+  "region_kz": "Шығыс",
+  "founded": 552,
+  "collapse_year": 603,
+  "lifespan": 51,
+  "collapse_type_kz": "бөліну",
+  "collapse_desc_kz": "Шығыс және Батыс қағанаттарға түпкілікті бөліну (603)",
+  "static": {
+   "succession_system": 2,
+   "appanage_system": 1,
+   "sedentarization": 0,
+   "own_script": 0,
+   "written_law": 0,
+   "heterogeneity": 2
+  },
+  "sources": "«Чжоу шу», 50-тарау; «Суй шу», 84-тарау; Менандр Протектор; Гумилёв «Древние тюрки» (сыни тұрғыдан); Кляшторный 2006; Golden 1992",
+  "windows": [
+   {
+    "start": 552,
+    "end": 578,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 4,
+     "long_ruler_death": 1,
+     "succession_conflict": 0,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 0,
+     "external_resources": 2,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.05,
+    "risk_fit": 0.048,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "appanage_system",
+      "contribution": 0.002
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Бумын, Қара-Ыссық, Мұқан (қ.б. 572), Таспар; эфталиттерді талқандау; Чжоу мен Ци төлейтін жібек алымы"
+   },
+   {
+    "start": 578,
+    "end": 603,
+    "features": {
+     "age_at_start": 26,
+     "n_rulers": 7,
+     "long_ruler_death": 0,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 0,
+     "territory_trend": -1,
+     "disaster": 1,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.899,
+    "risk_fit": 0.91,
+    "top_drivers": [
+     {
+      "key": "disaster",
+      "contribution": 0.998
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Ышбара мен Апа қағанның соғысы (581–587); Қытайды Суй біріктіреді (589), «бөліп ал да билей бер» саясаты; шамамен 583 ж. ашаршылық; Туланның қаза табуы (599)"
+   }
+  ]
+ },
+ {
+  "id": "ETURK",
+  "name_kz": "Шығыс Түрік қағанаты",
+  "region_kz": "Шығыс",
+  "founded": 603,
+  "collapse_year": 630,
+  "lifespan": 27,
+  "collapse_type_kz": "жаулап алу",
+  "collapse_desc_kz": "Іллік қағанды Тан әскерінің тұтқынға алуы (630)",
+  "static": {
+   "succession_system": 2,
+   "appanage_system": 1,
+   "sedentarization": 0,
+   "own_script": 0,
+   "written_law": 0,
+   "heterogeneity": 1
+  },
+  "sources": "«Цзю Тан шу», 194-тарау; «Синь Тан шу», 215-тарау; Skaff 2012; Кляшторный 2006",
+  "windows": [
+   {
+    "start": 603,
+    "end": 630,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 4,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 1,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 1,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.786,
+    "risk_fit": 0.837,
+    "top_drivers": [
+     {
+      "key": "disaster",
+      "contribution": 0.998
+     },
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "618–626 жж. қытай қолбасшыларынан алым мен пара; сеяньто мен ұйғырлардың көтерілісі (627); 627–629 жж. қарлы қыстар мен жұт; Тулидің Танға өтуі (628)"
+   }
+  ]
+ },
+ {
+  "id": "WTURK",
+  "name_kz": "Батыс Түрік қағанаты",
+  "region_kz": "Орталық",
+  "founded": 603,
+  "collapse_year": 657,
+  "lifespan": 54,
+  "collapse_type_kz": "жаулап алу",
+  "collapse_desc_kz": "Ашина Хэлуды Тан әскерінің талқандауы (657)",
+  "static": {
+   "succession_system": 2,
+   "appanage_system": 1,
+   "sedentarization": 1,
+   "own_script": 0,
+   "written_law": 0,
+   "heterogeneity": 2
+  },
+  "sources": "«Цзю Тан шу», 194б-тарау; Сюань-цзан; Chavannes 1903 «Documents sur les Tou-kiue occidentaux»; Гумилёв (сыни тұрғыдан); Кляшторный, Султанов 2004",
+  "windows": [
+   {
+    "start": 603,
+    "end": 632,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 5,
+     "long_ruler_death": 0,
+     "succession_conflict": 2,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.166,
+    "risk_fit": 0.205,
+    "top_drivers": [
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "appanage_system",
+      "contribution": 0.002
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Тон-ябғу тұсындағы шарықтау (618–628); оның өлтірілуі, тартыс; Соғды мен сауданы бақылау"
+   },
+   {
+    "start": 632,
+    "end": 657,
+    "features": {
+     "age_at_start": 29,
+     "n_rulers": 5,
+     "long_ruler_death": 0,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 1,
+     "territory_trend": -1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.478,
+    "risk_fit": 0.633,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Дулу мен нушиби соғысы, Іле бойымен бөліну (638); Гаочаннан (640), Күшардан (648) айырылу"
+   }
+  ]
+ },
+ {
+  "id": "TURK2",
+  "name_kz": "Екінші Түрік қағанаты",
+  "region_kz": "Шығыс",
+  "founded": 682,
+  "collapse_year": 744,
+  "lifespan": 62,
+  "collapse_type_kz": "жаулап алу",
+  "collapse_desc_kz": "Басмыл, ұйғыр және қарлұқ одағының талқандауы (744)",
+  "static": {
+   "succession_system": 2,
+   "appanage_system": 1,
+   "sedentarization": 0,
+   "own_script": 1,
+   "written_law": 0,
+   "heterogeneity": 1
+  },
+  "sources": "Орхон жазбалары (Күлтегін, Білге қаған, Тоныкөк); «Цзю Тан шу»; Кляшторный 1964, 2006; Tekin 1968",
+  "windows": [
+   {
+    "start": 682,
+    "end": 719,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 4,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.153,
+    "risk_fit": 0.242,
+    "top_drivers": [
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "appanage_system",
+      "contribution": 0.002
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Елтеріс, Қапаған (қ.б. 716, 25 жыл билеген); Күлтегіннің төңкерісі (716); байырқулардың көтерілісі; Тан төлемдері (698)"
+   },
+   {
+    "start": 719,
+    "end": 744,
+    "features": {
+     "age_at_start": 37,
+     "n_rulers": 5,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 1,
+     "neighbor_strength": 2,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.416,
+    "risk_fit": 0.627,
+    "top_drivers": [
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Білге қағанның өлімі (734); Танмен жылқыны жібекке айырбастау; қағандардың өлтірілуі, 741–744 жж. соғыс; басмыл-ұйғыр-қарлұқ соққылары"
+   }
+  ]
+ },
+ {
+  "id": "TURGESH",
+  "name_kz": "Түргеш қағанаты",
+  "region_kz": "Орталық",
+  "founded": 699,
+  "collapse_year": 766,
+  "lifespan": 67,
+  "collapse_type_kz": "жаулап алу",
+  "collapse_desc_kz": "Қарлұқтардың Суябты басып алуы (766)",
+  "static": {
+   "succession_system": 1,
+   "appanage_system": 0,
+   "sedentarization": 1,
+   "own_script": 0,
+   "written_law": 0,
+   "heterogeneity": 1
+  },
+  "sources": "«Цзю/Синь Тан шу»; ат-Табари; Gibb 1923; Бернштам; Кляшторный, Султанов 2004",
+  "windows": [
+   {
+    "start": 699,
+    "end": 716,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 3,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 1,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": -1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 0,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.761,
+    "risk_fit": 0.734,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Үшелік, Сақал; Сақалдың інісінің Қапағанға өтуі; Болчудағы күйреу (711)"
+   },
+   {
+    "start": 716,
+    "end": 741,
+    "features": {
+     "age_at_start": 17,
+     "n_rulers": 3,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 0,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.296,
+    "risk_fit": 0.266,
+    "top_drivers": [
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     },
+     {
+      "key": "major_defeat",
+      "contribution": 0.025
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Сұлу (шамамен 717–738) — арабтармен соғыстар, Харистандағы жеңіліс (737); Сұлудың өлтірілуі (738), сары және қара түргештердің бөлінуі"
+   },
+   {
+    "start": 741,
+    "end": 766,
+    "features": {
+     "age_at_start": 42,
+     "n_rulers": 4,
+     "long_ruler_death": 0,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 0,
+     "territory_trend": -1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 0,
+     "sedentarization": 1
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.869,
+    "risk_fit": 0.865,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     }
+    ],
+    "confidence": "L",
+    "key_events_kz": "Ішкі тартыс; Суябты Тан қолбасшысы Ван Чжэнцзянның қиратуы (748); Талас (751); қарлұқтардың күшеюі"
+   }
+  ]
+ },
+ {
+  "id": "UYGHUR",
+  "name_kz": "Ұйғыр қағанаты",
+  "region_kz": "Шығыс",
+  "founded": 744,
+  "collapse_year": 840,
+  "lifespan": 96,
+  "collapse_type_kz": "жаулап алу",
+  "collapse_desc_kz": "Енисей қырғыздарының талқандауы, Орду-Балықтың құлауы (840)",
+  "static": {
+   "succession_system": 1,
+   "appanage_system": 0,
+   "sedentarization": 1,
+   "own_script": 1,
+   "written_law": 0,
+   "heterogeneity": 1
+  },
+  "sources": "Тэрхин, Тэс, Қарабалғасұн жазбалары; «Цзю Тан шу», 195-тарау; Mackerras 1972; Камалов 2001",
+  "windows": [
+   {
+    "start": 744,
+    "end": 765,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 3,
+     "long_ruler_death": 0,
+     "succession_conflict": 0,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 0,
+     "external_resources": 2,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 1,
+     "succession_system": 1,
+     "appanage_system": 0,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.113,
+    "risk_fit": 0.095,
+    "top_drivers": [
+     {
+      "key": "religion_change",
+      "contribution": 0.391
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "succession_system",
+      "contribution": 0.007
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Ань Лушаньға қарсы Танға көмек (755–763), орасан төлемдер; Бөгү қағанның манихейлікті қабылдауы (762–763)"
+   },
+   {
+    "start": 765,
+    "end": 790,
+    "features": {
+     "age_at_start": 21,
+     "n_rulers": 3,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 0,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 0,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.171,
+    "risk_fit": 0.148,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     },
+     {
+      "key": "major_defeat",
+      "contribution": 0.025
+     },
+     {
+      "key": "succession_system",
+      "contribution": 0.007
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Бөгүдің (779) және соғдылардың өлтірілуі; Бесбалық маңында тибеттіктерден жеңілу (789–790)"
+   },
+   {
+    "start": 790,
+    "end": 815,
+    "features": {
+     "age_at_start": 46,
+     "n_rulers": 5,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 0,
+     "external_resources": 2,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 0,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.134,
+    "risk_fit": 0.127,
+    "top_drivers": [
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "succession_system",
+      "contribution": 0.007
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Яғлақар әулетінің орнына Эдиз әулетінің келуі (795); Тибетті жеңу"
+   },
+   {
+    "start": 815,
+    "end": 840,
+    "features": {
+     "age_at_start": 71,
+     "n_rulers": 5,
+     "long_ruler_death": 0,
+     "succession_conflict": 2,
+     "major_defeat": 0,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 1,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 0,
+     "sedentarization": 1
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.848,
+    "risk_fit": 0.877,
+    "top_drivers": [
+     {
+      "key": "disaster",
+      "contribution": 0.998
+     },
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "820 жылдан қырғыздармен соғыс; қағанның өлтірілуі (832); төңкеріс (839); ашаршылық, індет, қарлы қыс (839)"
+   }
+  ]
+ },
+ {
+  "id": "LIAO",
+  "name_kz": "Ляо империясы (қидандар)",
+  "region_kz": "Шығыс",
+  "founded": 916,
+  "collapse_year": 1125,
+  "lifespan": 209,
+  "collapse_type_kz": "жаулап алу",
+  "collapse_desc_kz": "Тяньцзоны жүрчжендердің тұтқынға алуы (1125)",
+  "static": {
+   "succession_system": 0,
+   "appanage_system": 0,
+   "sedentarization": 2,
+   "own_script": 1,
+   "written_law": 1,
+   "heterogeneity": 2
+  },
+  "sources": "«Ляо ши»; Wittfogel & Feng 1949; Twitchett & Tietze (Cambridge History of China, 6-том)",
+  "windows": [
+   {
+    "start": 916,
+    "end": 950,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 3,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 0,
+     "external_resources": 2,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 0,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.046,
+    "risk_fit": 0.044,
+    "top_drivers": [
+     {
+      "key": "succession_system",
+      "contribution": 0.116
+     },
+     {
+      "key": "n_rulers",
+      "contribution": 0.003
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Абаоцзи (қ.б. 926), Тайцзун (қ.б. 947); Бохайды (926) және 16 округті (938) басып алу; 947 ж. тақ таласы"
+   },
+   {
+    "start": 950,
+    "end": 975,
+    "features": {
+     "age_at_start": 34,
+     "n_rulers": 3,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 0,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.114,
+    "risk_fit": 0.11,
+    "top_drivers": [
+     {
+      "key": "succession_system",
+      "contribution": 0.116
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.026
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Императорлар Шицзун (951) мен Муцзунның (969) өлтірілуі; Сун әулетінің құрылуы (960)"
+   },
+   {
+    "start": 975,
+    "end": 1000,
+    "features": {
+     "age_at_start": 59,
+     "n_rulers": 2,
+     "long_ruler_death": 0,
+     "succession_conflict": 0,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 1,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 0,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.139,
+    "risk_fit": 0.115,
+    "top_drivers": [
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "succession_system",
+      "contribution": 0.116
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Императрица Сяоның регенттігі; Сунның 979, 986 жж. жорықтарына тойтарыс"
+   },
+   {
+    "start": 1000,
+    "end": 1025,
+    "features": {
+     "age_at_start": 84,
+     "n_rulers": 1,
+     "long_ruler_death": 0,
+     "succession_conflict": 0,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 0,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.12,
+    "risk_fit": 0.112,
+    "top_drivers": [
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "succession_system",
+      "contribution": 0.116
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Шаньюань келісімі (1005): Сунның жыл сайынғы алымы; Кучжу маңында Корёдан жеңілу (1019)"
+   },
+   {
+    "start": 1025,
+    "end": 1050,
+    "features": {
+     "age_at_start": 109,
+     "n_rulers": 2,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 0,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.109,
+    "risk_fit": 0.114,
+    "top_drivers": [
+     {
+      "key": "succession_system",
+      "contribution": 0.116
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     },
+     {
+      "key": "age_at_start",
+      "contribution": 0.034
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Шэнцзунның өлімі (1031); ханым-ананың қастандығы; Си Сядан жеңілу (1044)"
+   },
+   {
+    "start": 1050,
+    "end": 1075,
+    "features": {
+     "age_at_start": 134,
+     "n_rulers": 2,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 0,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.197,
+    "risk_fit": 0.205,
+    "top_drivers": [
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "succession_system",
+      "contribution": 0.116
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Синцзунның өлімі (1055); Елюй Чжунъюаньның бүлігі (1063)"
+   },
+   {
+    "start": 1075,
+    "end": 1100,
+    "features": {
+     "age_at_start": 159,
+     "n_rulers": 1,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 0,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.448,
+    "risk_fit": 0.447,
+    "top_drivers": [
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "succession_system",
+      "contribution": 0.116
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Елюй Исиньнің жаласымен мұрагердің өлтірілуі (1077); цзубулардың көтерілісі (1092–1100)"
+   },
+   {
+    "start": 1100,
+    "end": 1125,
+    "features": {
+     "age_at_start": 184,
+     "n_rulers": 2,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": -1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 0,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.624,
+    "risk_fit": 0.69,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Даоцзунның өлімі (1101); Агуданың көтерілісі (1114), Хубудаган маңындағы күйреу (1115); Солтүстік Ляо (1122)"
+   }
+  ]
+ },
+ {
+  "id": "QARAKHITAI",
+  "name_kz": "Қарақытай хандығы (Батыс Ляо)",
+  "region_kz": "Орталық",
+  "founded": 1124,
+  "collapse_year": 1218,
+  "lifespan": 94,
+  "collapse_type_kz": "жаулап алу",
+  "collapse_desc_kz": "Күшліктің билікті тартып алуы (1211), моңғолдардың жаулап алуы (1218)",
+  "static": {
+   "succession_system": 0,
+   "appanage_system": 0,
+   "sedentarization": 2,
+   "own_script": 1,
+   "written_law": 0,
+   "heterogeneity": 2
+  },
+  "sources": "«Ляо ши», 30-тарау; Жувайни; Biran 2005 «The Empire of the Qara Khitai»",
+  "windows": [
+   {
+    "start": 1124,
+    "end": 1143,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 1,
+     "long_ruler_death": 0,
+     "succession_conflict": 0,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 0,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.048,
+    "risk_fit": 0.045,
+    "top_drivers": [
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "succession_system",
+      "contribution": 0.116
+     },
+     {
+      "key": "n_rulers",
+      "contribution": 0.013
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Елюй Даши; Қатуанда Санжарды жеңу (1141), Қарахандар мен Хорезмнің вассалдығы"
+   },
+   {
+    "start": 1143,
+    "end": 1168,
+    "features": {
+     "age_at_start": 19,
+     "n_rulers": 4,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 0,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 0,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.112,
+    "risk_fit": 0.099,
+    "top_drivers": [
+     {
+      "key": "succession_system",
+      "contribution": 0.116
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Дашидің өлімі (1143), Табуянь мен Пусуваньның регенттігі; Селжұқтардың ыдырауы (1153)"
+   },
+   {
+    "start": 1168,
+    "end": 1193,
+    "features": {
+     "age_at_start": 44,
+     "n_rulers": 2,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 0,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.2,
+    "risk_fit": 0.19,
+    "top_drivers": [
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "succession_system",
+      "contribution": 0.116
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Пусуваньның өлтірілуі (1177); Чжилугудің таққа отыруы; Хорезмнің күшеюі"
+   },
+   {
+    "start": 1193,
+    "end": 1218,
+    "features": {
+     "age_at_start": 69,
+     "n_rulers": 2,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 1,
+     "neighbor_strength": 2,
+     "external_resources": 1,
+     "territory_trend": -1,
+     "disaster": 0,
+     "religion_change": 1,
+     "succession_system": 0,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.499,
+    "risk_fit": 0.753,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Хорезм алымды тоқтатады (1209), Таластағы жеңіліс (1210); Күшліктің билікті басып алуы (1211), мұсылмандарды қудалау"
+   }
+  ]
+ },
+ {
+  "id": "MONGOL",
+  "name_kz": "Моңғол империясы (біртұтас)",
+  "region_kz": "Шығыс",
+  "founded": 1206,
+  "collapse_year": 1260,
+  "lifespan": 54,
+  "collapse_type_kz": "бөліну",
+  "collapse_desc_kz": "Мөңке өлгеннен кейінгі бөліну: Құбылай мен Арық-Бұқаның соғысы (1260)",
+  "static": {
+   "succession_system": 1,
+   "appanage_system": 1,
+   "sedentarization": 0,
+   "own_script": 1,
+   "written_law": 1,
+   "heterogeneity": 2
+  },
+  "sources": "«Моңғолдың құпия шежіресі»; Рашид ад-Дин; «Юань ши»; Allsen 1987; Jackson 2017",
+  "windows": [
+   {
+    "start": 1206,
+    "end": 1235,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 3,
+     "long_ruler_death": 1,
+     "succession_conflict": 0,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 0,
+     "external_resources": 2,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.029,
+    "risk_fit": 0.054,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "succession_system",
+      "contribution": 0.007
+     },
+     {
+      "key": "n_rulers",
+      "contribution": 0.003
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Шыңғыс хан (қ.б. 1227), Төленің регенттігі, Үгедей (1229); Си Ся, Цзинь, Хорезмді жаулап алу"
+   },
+   {
+    "start": 1235,
+    "end": 1260,
+    "features": {
+     "age_at_start": 29,
+     "n_rulers": 5,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.068,
+    "risk_fit": 0.197,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "succession_system",
+      "contribution": 0.007
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Төрегене мен Оғыл-Қаймыштың регенттігі; Гүйік пен Батудың қарсыласуы; Мөңкенің үгедейліктерді қуғындауы (1251)"
+   }
+  ]
+ },
+ {
+  "id": "GOLDHORDE",
+  "name_kz": "Алтын Орда (Жошы ұлысы)",
+  "region_kz": "Батыс",
+  "founded": 1242,
+  "collapse_year": 1438,
+  "lifespan": 196,
+  "collapse_type_kz": "ыдырау",
+  "collapse_desc_kz": "Хандықтарға ыдырау: Қазан (1438), Қырым (1441) т.б.",
+  "static": {
+   "succession_system": 1,
+   "appanage_system": 1,
+   "sedentarization": 1,
+   "own_script": 1,
+   "written_law": 1,
+   "heterogeneity": 2
+  },
+  "sources": "Орыс жылнамалары; Тизенгаузен (материалдар жинағы); Өтеміс қажы «Шыңғыс-наме»; Сафаргалиев 1960; Почекаев 2010; «Золотая Орда в мировой истории» 2016",
+  "windows": [
+   {
+    "start": 1242,
+    "end": 1263,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 4,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 0,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.221,
+    "risk_fit": 0.14,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     },
+     {
+      "key": "succession_system",
+      "contribution": 0.007
+     },
+     {
+      "key": "appanage_system",
+      "contribution": 0.002
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Батый (қ.б. шамамен 1255), Сартақ, Ұлақшы, Берке; Русьтен алынатын «шығыс» алымы; Хұлағумен соғыс"
+   },
+   {
+    "start": 1263,
+    "end": 1288,
+    "features": {
+     "age_at_start": 21,
+     "n_rulers": 4,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 0,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.348,
+    "risk_fit": 0.253,
+    "top_drivers": [
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     },
+     {
+      "key": "succession_system",
+      "contribution": 0.007
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Мөңке-Темір, Тұда-Мөңке, Тұла-Бұқа; Ноғайдың күшеюі"
+   },
+   {
+    "start": 1288,
+    "end": 1313,
+    "features": {
+     "age_at_start": 46,
+     "n_rulers": 2,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 0,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.345,
+    "risk_fit": 0.26,
+    "top_drivers": [
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     },
+     {
+      "key": "n_rulers",
+      "contribution": 0.008
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Тоқта мен Ноғайдың соғысы (1297–1300); Тоқтаның өлімі (1312)"
+   },
+   {
+    "start": 1313,
+    "end": 1338,
+    "features": {
+     "age_at_start": 71,
+     "n_rulers": 1,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 1,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.408,
+    "risk_fit": 0.358,
+    "top_drivers": [
+     {
+      "key": "religion_change",
+      "contribution": 0.391
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Өзбек хан: ислам — мемлекеттік дін; бәсекелестерді жою (1313)"
+   },
+   {
+    "start": 1338,
+    "end": 1363,
+    "features": {
+     "age_at_start": 96,
+     "n_rulers": 10,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": -1,
+     "disaster": 1,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.881,
+    "risk_fit": 0.757,
+    "top_drivers": [
+     {
+      "key": "disaster",
+      "contribution": 0.998
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Өзбектің өлімі (1341); Қара өлім (1346–1347); 1359 жылдан «Ұлы дүрбелең»; Көк Су (1362)"
+   },
+   {
+    "start": 1363,
+    "end": 1388,
+    "features": {
+     "age_at_start": 121,
+     "n_rulers": 10,
+     "long_ruler_death": 0,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": 0,
+     "disaster": 1,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.848,
+    "risk_fit": 0.734,
+    "top_drivers": [
+     {
+      "key": "disaster",
+      "contribution": 0.998
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Дүрбелең, Мамай; Вожа (1378), Куликово (1380); Тоқтамыстың Орданы біріктіруі; қайталанған індеттер"
+   },
+   {
+    "start": 1388,
+    "end": 1413,
+    "features": {
+     "age_at_start": 146,
+     "n_rulers": 6,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 0,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.374,
+    "risk_fit": 0.33,
+    "top_drivers": [
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.117
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Әмір Темірдің Тоқтамысты талқандауы (1391, 1395), Сарайдың қиратылуы; Едіге дәуірі"
+   },
+   {
+    "start": 1413,
+    "end": 1438,
+    "features": {
+     "age_at_start": 171,
+     "n_rulers": 10,
+     "long_ruler_death": 0,
+     "succession_conflict": 2,
+     "major_defeat": 0,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 0,
+     "territory_trend": -1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.897,
+    "risk_fit": 0.872,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Хандардың жиі ауысуы; Әбілқайыр (1428) мен маңғыттардың күшеюі; Ұлық Мұхаммедтің қуылуы"
+   }
+  ]
+ },
+ {
+  "id": "CHAGATAI",
+  "name_kz": "Шағатай ұлысы",
+  "region_kz": "Орталық",
+  "founded": 1227,
+  "collapse_year": 1347,
+  "lifespan": 120,
+  "collapse_type_kz": "бөліну",
+  "collapse_desc_kz": "Қазан ханның өлтірілуі, Моғолстан мен Мәуереннахрға бөліну (1346–1347)",
+  "static": {
+   "succession_system": 1,
+   "appanage_system": 1,
+   "sedentarization": 1,
+   "own_script": 1,
+   "written_law": 1,
+   "heterogeneity": 2
+  },
+  "sources": "Рашид ад-Дин; Жамал Қарши; Biran 1997 «Qaidu»; Бартольд «История Семиречья»; Кляшторный, Султанов 2004",
+  "windows": [
+   {
+    "start": 1227,
+    "end": 1247,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 3,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 0,
+     "external_resources": 1,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.155,
+    "risk_fit": 0.152,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.026
+     },
+     {
+      "key": "succession_system",
+      "contribution": 0.007
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Шағатай (қ.б. 1242), Қара-Хұлағу; Гүйік Есу-Мөңкені тағайындайды (1246); ұлыс әлі тәуелсіз емес"
+   },
+   {
+    "start": 1247,
+    "end": 1272,
+    "features": {
+     "age_at_start": 20,
+     "n_rulers": 5,
+     "long_ruler_death": 0,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.491,
+    "risk_fit": 0.443,
+    "top_drivers": [
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Есу-Мөңкенің өлім жазасына кесілуі (1251); Алғу (1260–1266), Барақ; Гераттағы жеңіліс (1270)"
+   },
+   {
+    "start": 1272,
+    "end": 1297,
+    "features": {
+     "age_at_start": 45,
+     "n_rulers": 3,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 1,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.321,
+    "risk_fit": 0.282,
+    "top_drivers": [
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.026
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Қайдудың үстемдігі; Дува (1282 жылдан); Юаньмен соғыстар"
+   },
+   {
+    "start": 1297,
+    "end": 1322,
+    "features": {
+     "age_at_start": 70,
+     "n_rulers": 5,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 1,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.1,
+    "risk_fit": 0.08,
+    "top_drivers": [
+     {
+      "key": "external_resources",
+      "contribution": 0.026
+     },
+     {
+      "key": "major_defeat",
+      "contribution": 0.025
+     },
+     {
+      "key": "neighbor_strength",
+      "contribution": 0.012
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Дуваның өлімі (1307), үгедейліктер иелігін қосып алу (1306); Юаньнан жеңілу (1315–1316)"
+   },
+   {
+    "start": 1322,
+    "end": 1347,
+    "features": {
+     "age_at_start": 95,
+     "n_rulers": 10,
+     "long_ruler_death": 0,
+     "succession_conflict": 2,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 0,
+     "external_resources": 1,
+     "territory_trend": -1,
+     "disaster": 1,
+     "religion_change": 1,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.821,
+    "risk_fit": 0.901,
+    "top_drivers": [
+     {
+      "key": "disaster",
+      "contribution": 0.998
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Тармаширин исламды қабылдайды; оған қарсы көтеріліс (1334); 1338–1339 жж. Жетісудағы оба (Ыстықкөлдің несториан құлпытастары)"
+   }
+  ]
+ },
+ {
+  "id": "ILKHANATE",
+  "name_kz": "Хұлағу әулеті мемлекеті (Ильхандық)",
+  "region_kz": "Батыс",
+  "founded": 1256,
+  "collapse_year": 1335,
+  "lifespan": 79,
+  "collapse_type_kz": "ыдырау",
+  "collapse_desc_kz": "Әбу Саидтің мұрагерсіз қайтыс болуы, әмірліктерге ыдырау (1335)",
+  "static": {
+   "succession_system": 1,
+   "appanage_system": 0,
+   "sedentarization": 2,
+   "own_script": 1,
+   "written_law": 1,
+   "heterogeneity": 2
+  },
+  "sources": "Рашид ад-Дин; Уассаф; Melville 1999; Jackson 2017; Кембридж Иран тарихы, 5-том",
+  "windows": [
+   {
+    "start": 1256,
+    "end": 1285,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 4,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 1,
+     "neighbor_strength": 2,
+     "external_resources": 2,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 1,
+     "succession_system": 1,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.4,
+    "risk_fit": 0.291,
+    "top_drivers": [
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "religion_change",
+      "contribution": 0.391
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Айн-Жалут (1260), Алтын Ордамен соғыс; Абақа (қ.б. 1282); Текудердің исламды қабылдауы; Арғұн мен Текудердің соғысы (1284)"
+   },
+   {
+    "start": 1285,
+    "end": 1310,
+    "features": {
+     "age_at_start": 29,
+     "n_rulers": 5,
+     "long_ruler_death": 0,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 1,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 1,
+     "succession_system": 1,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.565,
+    "risk_fit": 0.423,
+    "top_drivers": [
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "religion_change",
+      "contribution": 0.391
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Гейхатудың қағаз ақшасы (1294); Байду мен Ғазанның соғысы (1295); Ғазанның исламды қабылдауы; Мардж ас-Суффар (1303)"
+   },
+   {
+    "start": 1310,
+    "end": 1335,
+    "features": {
+     "age_at_start": 54,
+     "n_rulers": 2,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.241,
+    "risk_fit": 0.414,
+    "top_drivers": [
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Әбу Саид, Шобан әулетінің билігі (Шобанның өлтірілуі, 1327); Өзбек ханның шабуылдары (1318, 1335)"
+   }
+  ]
+ },
+ {
+  "id": "ABULKHAIR",
+  "name_kz": "Әбілқайыр хандығы (Көшпелі өзбектер мемлекеті)",
+  "region_kz": "Орталық",
+  "founded": 1428,
+  "collapse_year": 1468,
+  "lifespan": 40,
+  "collapse_type_kz": "ыдырау",
+  "collapse_desc_kz": "Әбілқайырдың өлімі, мемлекеттің ыдырауы (1468)",
+  "static": {
+   "succession_system": 0,
+   "appanage_system": 0,
+   "sedentarization": 0,
+   "own_script": 1,
+   "written_law": 0,
+   "heterogeneity": 1
+  },
+  "sources": "Масуд бен Кухистани «Тарих-и Абулхаир-хани»; Мұхаммед Хайдар Дулати «Тарих-и Рашиди»; Ахмедов 1965; Кляшторный, Султанов 2004",
+  "windows": [
+   {
+    "start": 1428,
+    "end": 1443,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 1,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 0,
+     "appanage_system": 0,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.22,
+    "risk_fit": 0.228,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "succession_system",
+      "contribution": 0.116
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Тұрада хан көтерілуі (1428), жоғарғы билік үшін күрес; Хорезмге жорықтар (1431)"
+   },
+   {
+    "start": 1443,
+    "end": 1468,
+    "features": {
+     "age_at_start": 15,
+     "n_rulers": 1,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 1,
+     "rival_rise": 1,
+     "neighbor_strength": 0,
+     "external_resources": 1,
+     "territory_trend": -1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 0,
+     "appanage_system": 0,
+     "sedentarization": 0
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.79,
+    "risk_fit": 0.839,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Сығанақ маңында Үз-Темір бастаған ойраттардан жеңілу (1457); Керей мен Жәнібектің Моғолстанға көшуі (1458–1459)"
+   }
+  ]
+ },
+ {
+  "id": "NOGAI",
+  "name_kz": "Ноғай Ордасы",
+  "region_kz": "Батыс",
+  "founded": 1440,
+  "collapse_year": 1557,
+  "lifespan": 117,
+  "collapse_type_kz": "бөліну",
+  "collapse_desc_kz": "Жүсіп пен Исмайыл соғысынан кейін Үлкен және Кіші Ноғай Ордасына бөліну (1554–1557)",
+  "static": {
+   "succession_system": 2,
+   "appanage_system": 1,
+   "sedentarization": 0,
+   "own_script": 1,
+   "written_law": 0,
+   "heterogeneity": 1
+  },
+  "sources": "Ноғай Ордасымен байланыс бойынша елшілік кітаптары; Трепавлов «История Ногайской Орды» (2001); Кочекаев 1988",
+  "windows": [
+   {
+    "start": 1440,
+    "end": 1457,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 2,
+     "long_ruler_death": 0,
+     "succession_conflict": 0,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 0,
+     "external_resources": 1,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.12,
+    "risk_fit": 0.103,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.026
+     }
+    ],
+    "confidence": "L",
+    "key_events_kz": "Уаққас; ыдырап жатқан Ордадан маңғыттардың оқшаулануы"
+   },
+   {
+    "start": 1457,
+    "end": 1482,
+    "features": {
+     "age_at_start": 17,
+     "n_rulers": 2,
+     "long_ruler_death": 0,
+     "succession_conflict": 0,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.246,
+    "risk_fit": 0.218,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     }
+    ],
+    "confidence": "L",
+    "key_events_kz": "Аббас, Мұса; Ахмет ханды өлтіруге қатысу (1481)"
+   },
+   {
+    "start": 1482,
+    "end": 1507,
+    "features": {
+     "age_at_start": 42,
+     "n_rulers": 3,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.116,
+    "risk_fit": 0.108,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.026
+     },
+     {
+      "key": "n_rulers",
+      "contribution": 0.003
+     }
+    ],
+    "confidence": "L",
+    "key_events_kz": "Мұса (қ.б. шамамен 1502), Жаңғыршы; ағайындылардың таласы"
+   },
+   {
+    "start": 1507,
+    "end": 1532,
+    "features": {
+     "age_at_start": 67,
+     "n_rulers": 4,
+     "long_ruler_death": 0,
+     "succession_conflict": 2,
+     "major_defeat": 0,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": -1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.921,
+    "risk_fit": 0.897,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     }
+    ],
+    "confidence": "L",
+    "key_events_kz": "Мырзалардың өзара соғыстары; Қасым хан тұсында қазақтардың қысымы; Астраханьға жорық (1523)"
+   },
+   {
+    "start": 1532,
+    "end": 1557,
+    "features": {
+     "age_at_start": 92,
+     "n_rulers": 4,
+     "long_ruler_death": 0,
+     "succession_conflict": 2,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 1,
+     "territory_trend": 0,
+     "disaster": 1,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.776,
+    "risk_fit": 0.802,
+    "top_drivers": [
+     {
+      "key": "disaster",
+      "contribution": 0.998
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Шейх-Мамай, Жүсіп, Исмайыл; Мәскеудің Қазанды (1552) және Астраханьды (1556) алуы; Жүсіп пен Исмайыл соғысы; 1556–1557 жж. ашаршылық пен індет"
+   }
+  ]
+ },
+ {
+  "id": "KAZAKH",
+  "name_kz": "Қазақ хандығы (біртұтас)",
+  "region_kz": "Орталық",
+  "founded": 1465,
+  "collapse_year": 1718,
+  "lifespan": 253,
+  "collapse_type_kz": "бірліктен айырылу",
+  "collapse_desc_kz": "Тәуке қайтыс болғаннан кейін жүздердің жеке хандармен оқшаулануы (1718); хандық институты XIX ғасырға дейін сақталды",
+  "static": {
+   "succession_system": 1,
+   "appanage_system": 1,
+   "sedentarization": 0,
+   "own_script": 1,
+   "written_law": 1,
+   "heterogeneity": 1
+  },
+  "sources": "Мұхаммед Хайдар Дулати «Тарих-и Рашиди»; Қадырғали Жалайыри «Жами ат-тауарих»; «Қазақ-орыс қатынастары» (құжаттар жинағы); «Қазақстан тарихы», 2-том (1997); Т. Сұлтанов; Кляшторный, Султанов 2004",
+  "windows": [
+   {
+    "start": 1465,
+    "end": 1493,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 3,
+     "long_ruler_death": 0,
+     "succession_conflict": 0,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 0,
+     "external_resources": 1,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.144,
+    "risk_fit": 0.113,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.026
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Керей мен Жәнібек; Бұрындық; Сырдария қалалары үшін күрес"
+   },
+   {
+    "start": 1493,
+    "end": 1518,
+    "features": {
+     "age_at_start": 28,
+     "n_rulers": 2,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 1,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.127,
+    "risk_fit": 0.119,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.026
+     },
+     {
+      "key": "neighbor_strength",
+      "contribution": 0.012
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Бұрындықтың биліктен кетуі (шамамен 1511); Қасым хан тұсындағы шарықтау; Шайбаниді жеңу (1510)"
+   },
+   {
+    "start": 1518,
+    "end": 1543,
+    "features": {
+     "age_at_start": 53,
+     "n_rulers": 6,
+     "long_ruler_death": 0,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 0,
+     "territory_trend": -1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.959,
+    "risk_fit": 0.915,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Қасымның өлімі (1521); Мамаш, Тахир, Бұйдаш; ноғайлар мен моғолдардан жеңілу; Тоғымның қаза табуы (1537) — дағдарыс, кейін Хақназар біріктіреді"
+   },
+   {
+    "start": 1543,
+    "end": 1568,
+    "features": {
+     "age_at_start": 78,
+     "n_rulers": 1,
+     "long_ruler_death": 0,
+     "succession_conflict": 0,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.16,
+    "risk_fit": 0.124,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.026
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Хақназар: бірліктің қалпына келуі, Еділге дейінгі жерлер"
+   },
+   {
+    "start": 1568,
+    "end": 1593,
+    "features": {
+     "age_at_start": 103,
+     "n_rulers": 3,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 1,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.269,
+    "risk_fit": 0.256,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     },
+     {
+      "key": "age_at_start",
+      "contribution": 0.028
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Хақназардың өлтірілуі (1580); Шығай, Тәуекел; Бұқарадағы Абдолла II; Ресейдің Сібірді алуы (1582)"
+   },
+   {
+    "start": 1593,
+    "end": 1618,
+    "features": {
+     "age_at_start": 128,
+     "n_rulers": 3,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 1,
+     "neighbor_strength": 0,
+     "external_resources": 2,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.421,
+    "risk_fit": 0.287,
+    "top_drivers": [
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "age_at_start",
+      "contribution": 0.054
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Тәуекелдің Ташкент, Самарқандты алуы (1598); Есім мен Тұрсын; Шайбанилердің ыдырауы; ойраттардың тегеуріні"
+   },
+   {
+    "start": 1618,
+    "end": 1643,
+    "features": {
+     "age_at_start": 153,
+     "n_rulers": 3,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.834,
+    "risk_fit": 0.698,
+    "top_drivers": [
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Есімнің Тұрсынды өлтіруі (1627); Жәңгір жоңғарлардың тұтқынында (1635); Орбұлақ (1643)"
+   },
+   {
+    "start": 1643,
+    "end": 1668,
+    "features": {
+     "age_at_start": 178,
+     "n_rulers": 2,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 1,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.713,
+    "risk_fit": 0.539,
+    "top_drivers": [
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "age_at_start",
+      "contribution": 0.106
+     }
+    ],
+    "confidence": "L",
+    "key_events_kz": "Жәңгірдің жоңғарлармен шайқаста қаза табуы (1652); мерзімдері даулы"
+   },
+   {
+    "start": 1668,
+    "end": 1693,
+    "features": {
+     "age_at_start": 203,
+     "n_rulers": 2,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 1,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": -1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.93,
+    "risk_fit": 0.852,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     }
+    ],
+    "confidence": "L",
+    "key_events_kz": "Ғалданның жорықтары (1681–1685), Сайрамның алынуы (1684); Тәукенің таққа отыруы (1680)"
+   },
+   {
+    "start": 1693,
+    "end": 1718,
+    "features": {
+     "age_at_start": 228,
+     "n_rulers": 2,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 1,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 0,
+     "territory_trend": -1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.873,
+    "risk_fit": 0.761,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "«Жеті жарғы»; жоңғар шабуылдары (1698), Аягөз маңындағы жеңіліс (1717); Тәукенің өлімі"
+   }
+  ]
+ },
+ {
+  "id": "DZUNGAR",
+  "name_kz": "Жоңғар хандығы",
+  "region_kz": "Орталық",
+  "founded": 1635,
+  "collapse_year": 1757,
+  "lifespan": 122,
+  "collapse_type_kz": "жаулап алу",
+  "collapse_desc_kz": "Азамат соғысы және Цин империясының жоюы (1755–1757)",
+  "static": {
+   "succession_system": 0,
+   "appanage_system": 1,
+   "sedentarization": 1,
+   "own_script": 1,
+   "written_law": 1,
+   "heterogeneity": 1
+  },
+  "sources": "Златкин «История Джунгарского ханства» (1964); Perdue 2005 «China Marches West»; Цин хроникалары; Орыс-жоңғар қатынастары (құжаттар жинағы)",
+  "windows": [
+   {
+    "start": 1635,
+    "end": 1657,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 2,
+     "long_ruler_death": 1,
+     "succession_conflict": 0,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 1,
+     "succession_system": 0,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.065,
+    "risk_fit": 0.06,
+    "top_drivers": [
+     {
+      "key": "religion_change",
+      "contribution": 0.391
+     },
+     {
+      "key": "succession_system",
+      "contribution": 0.116
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.026
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Ердені-Батыр (қ.б. 1653); «Их Цааз» (1640) — гелуг буддизмі мемлекет негізі ретінде; «тодо бичиг» жазуы (1648)"
+   },
+   {
+    "start": 1657,
+    "end": 1682,
+    "features": {
+     "age_at_start": 22,
+     "n_rulers": 2,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 0,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.154,
+    "risk_fit": 0.141,
+    "top_drivers": [
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "succession_system",
+      "contribution": 0.116
+     },
+     {
+      "key": "n_rulers",
+      "contribution": 0.008
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Сэнгенің өлтірілуі (1670), билік үшін күрес; Ғалданның Шығыс Түркістанды жаулап алуы (1680)"
+   },
+   {
+    "start": 1682,
+    "end": 1707,
+    "features": {
+     "age_at_start": 47,
+     "n_rulers": 2,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 1,
+     "territory_trend": -1,
+     "disaster": 1,
+     "religion_change": 0,
+     "succession_system": 0,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.796,
+    "risk_fit": 0.777,
+    "top_drivers": [
+     {
+      "key": "disaster",
+      "contribution": 0.998
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Цэван-Рабданның бөлінуі; Джао-Модода Ғалданның күйреуі (1696), оның өлімі (1697); әскердегі ашаршылық"
+   },
+   {
+    "start": 1707,
+    "end": 1732,
+    "features": {
+     "age_at_start": 72,
+     "n_rulers": 2,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 2,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 0,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.088,
+    "risk_fit": 0.082,
+    "top_drivers": [
+     {
+      "key": "succession_system",
+      "contribution": 0.116
+     },
+     {
+      "key": "major_defeat",
+      "contribution": 0.025
+     },
+     {
+      "key": "neighbor_strength",
+      "contribution": 0.012
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Цэван-Рабдан (қ.б. 1727); Тибеттен қуылу (1720); «Ақтабан шұбырынды» (1723)"
+   },
+   {
+    "start": 1732,
+    "end": 1757,
+    "features": {
+     "age_at_start": 97,
+     "n_rulers": 5,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 1,
+     "territory_trend": -1,
+     "disaster": 1,
+     "religion_change": 0,
+     "succession_system": 0,
+     "appanage_system": 1,
+     "sedentarization": 1
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.787,
+    "risk_fit": 0.784,
+    "top_drivers": [
+     {
+      "key": "disaster",
+      "contribution": 0.998
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Қалдан-Сереннің өлімі (1745); өлтірулер мен төңкерістер, Дауаши мен Әмірсана; Цин жорығы (1755); шешек індеті (1756)"
+   }
+  ]
+ },
+ {
+  "id": "KALMYK",
+  "name_kz": "Қалмақ хандығы",
+  "region_kz": "Батыс",
+  "founded": 1630,
+  "collapse_year": 1771,
+  "lifespan": 141,
+  "collapse_type_kz": "жойылу",
+  "collapse_desc_kz": "Қалмақтардың басым бөлігінің Жоңғарияға көшуі және Ресейдің хандықты жоюы (1771)",
+  "static": {
+   "succession_system": 1,
+   "appanage_system": 1,
+   "sedentarization": 0,
+   "own_script": 1,
+   "written_law": 1,
+   "heterogeneity": 0
+  },
+  "sources": "Бакунин «Описание калмыцких народов» (XVIII ғ.); Khodarkovsky 1992 «Where Two Worlds Met»; Митиров 1998",
+  "windows": [
+   {
+    "start": 1630,
+    "end": 1646,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 2,
+     "long_ruler_death": 1,
+     "succession_conflict": 0,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 0,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.056,
+    "risk_fit": 0.068,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.117
+     },
+     {
+      "key": "major_defeat",
+      "contribution": 0.025
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Хо-Өрлүктің Еділге көшуі; оның Қабардада қаза табуы (1644)"
+   },
+   {
+    "start": 1646,
+    "end": 1671,
+    "features": {
+     "age_at_start": 16,
+     "n_rulers": 3,
+     "long_ruler_death": 1,
+     "succession_conflict": 0,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.045,
+    "risk_fit": 0.06,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.026
+     },
+     {
+      "key": "succession_system",
+      "contribution": 0.007
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Шүкір-Дайшың (қ.б. шамамен 1661), Пунцук, Аюке; Ресейге ант беру (1655)"
+   },
+   {
+    "start": 1671,
+    "end": 1696,
+    "features": {
+     "age_at_start": 41,
+     "n_rulers": 1,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.215,
+    "risk_fit": 0.217,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.026
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Аюке; туыстарымен күрес"
+   },
+   {
+    "start": 1696,
+    "end": 1721,
+    "features": {
+     "age_at_start": 66,
+     "n_rulers": 1,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 1,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.341,
+    "risk_fit": 0.406,
+    "top_drivers": [
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Аюкенің ұлы Чакдорджабтың бүлігі (1701); I Петр тұсындағы Ресей"
+   },
+   {
+    "start": 1721,
+    "end": 1746,
+    "features": {
+     "age_at_start": 91,
+     "n_rulers": 4,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 1,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.321,
+    "risk_fit": 0.408,
+    "top_drivers": [
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Аюкенің өлімі (1724); 1724–1735 жж. өзара соғыс"
+   },
+   {
+    "start": 1746,
+    "end": 1771,
+    "features": {
+     "age_at_start": 116,
+     "n_rulers": 2,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 0,
+     "territory_trend": -1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 1,
+     "appanage_system": 1,
+     "sedentarization": 0
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.284,
+    "risk_fit": 0.476,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "sedentarization",
+      "contribution": 0.425
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.117
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Дондук-Дашидің өлімі (1761); хан билігінің шектелуі (Зарго, 1762); отарлау салдарынан жайылымдардан айырылу"
+   }
+  ]
+ },
+ {
+  "id": "CRIMEA",
+  "name_kz": "Қырым хандығы",
+  "region_kz": "Батыс",
+  "founded": 1441,
+  "collapse_year": 1783,
+  "lifespan": 342,
+  "collapse_type_kz": "аннексия",
+  "collapse_desc_kz": "Ресей империясының құрамына қосылуы (1783)",
+  "static": {
+   "succession_system": 2,
+   "appanage_system": 0,
+   "sedentarization": 2,
+   "own_script": 1,
+   "written_law": 1,
+   "heterogeneity": 1
+  },
+  "sources": "Гайворонский «Созвездие Гераев» (2010); Смирнов «Крымское ханство» (1887); Fisher 1978; елшілік кітаптары",
+  "windows": [
+   {
+    "start": 1441,
+    "end": 1458,
+    "features": {
+     "age_at_start": 0,
+     "n_rulers": 1,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.453,
+    "risk_fit": 0.203,
+    "top_drivers": [
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "external_resources",
+      "contribution": 0.026
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Қажы Гирей; Үлкен Орда хандарымен күрес"
+   },
+   {
+    "start": 1458,
+    "end": 1483,
+    "features": {
+     "age_at_start": 17,
+     "n_rulers": 3,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 0,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 1,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.67,
+    "risk_fit": 0.378,
+    "top_drivers": [
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Қажы Гирейдің өлімі (1466); Нұр-Дәулет пен Меңлінің соғысы; Осман вассалдығы (1475); Үлкен Орданың шабуылы (1476)"
+   },
+   {
+    "start": 1483,
+    "end": 1508,
+    "features": {
+     "age_at_start": 42,
+     "n_rulers": 1,
+     "long_ruler_death": 0,
+     "succession_conflict": 0,
+     "major_defeat": 0,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.339,
+    "risk_fit": 0.106,
+    "top_drivers": [
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "n_rulers",
+      "contribution": 0.013
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Меңлі Гирей; Үлкен Орданы талқандау (1502)"
+   },
+   {
+    "start": 1508,
+    "end": 1533,
+    "features": {
+     "age_at_start": 67,
+     "n_rulers": 5,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.653,
+    "risk_fit": 0.376,
+    "top_drivers": [
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Меңлінің өлімі (1515); Мәскеуге жорық (1521); ноғайлардың I Мехмедті өлтіріп, Қырымды тонауы (1523); Саадет пен Исламның тартысы"
+   },
+   {
+    "start": 1533,
+    "end": 1558,
+    "features": {
+     "age_at_start": 92,
+     "n_rulers": 2,
+     "long_ruler_death": 1,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.269,
+    "risk_fit": 0.09,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     },
+     {
+      "key": "age_at_start",
+      "contribution": 0.017
+     },
+     {
+      "key": "neighbor_strength",
+      "contribution": 0.012
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Сахиб Гирей (өлтірілді, 1551), Дәулет Гирей; Мәскеудің Қазанды (1552) және Астраханьды (1556) алуы"
+   },
+   {
+    "start": 1558,
+    "end": 1583,
+    "features": {
+     "age_at_start": 117,
+     "n_rulers": 2,
+     "long_ruler_death": 1,
+     "succession_conflict": 0,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.153,
+    "risk_fit": 0.049,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     },
+     {
+      "key": "age_at_start",
+      "contribution": 0.043
+     },
+     {
+      "key": "major_defeat",
+      "contribution": 0.025
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Мәскеуді өртеу (1571); Молодидегі жеңіліс (1572); Дәулеттің өлімі (1577)"
+   },
+   {
+    "start": 1583,
+    "end": 1608,
+    "features": {
+     "age_at_start": 142,
+     "n_rulers": 5,
+     "long_ruler_death": 1,
+     "succession_conflict": 2,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 0,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.405,
+    "risk_fit": 0.169,
+    "top_drivers": [
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     },
+     {
+      "key": "age_at_start",
+      "contribution": 0.069
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "II Мехмедтің өлтірілуі (1584), аласапыран; Ғазы Гирей (қ.б. 1607); Ресейдегі Смута кезеңі"
+   },
+   {
+    "start": 1608,
+    "end": 1633,
+    "features": {
+     "age_at_start": 167,
+     "n_rulers": 3,
+     "long_ruler_death": 0,
+     "succession_conflict": 2,
+     "major_defeat": 0,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.813,
+    "risk_fit": 0.569,
+    "top_drivers": [
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "III Мехмед пен Шахиннің Османдарға қарсы соғысы (1624–1628); Кантемирдің (Буджак) күшеюі"
+   },
+   {
+    "start": 1633,
+    "end": 1658,
+    "features": {
+     "age_at_start": 192,
+     "n_rulers": 5,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 1,
+     "neighbor_strength": 0,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.703,
+    "risk_fit": 0.393,
+    "top_drivers": [
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "age_at_start",
+      "contribution": 0.121
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Инаеттің өлім жазасына кесілуі (1637); Хмельницкиймен одақ (1648); Еділдегі қалмақтар"
+   },
+   {
+    "start": 1658,
+    "end": 1683,
+    "features": {
+     "age_at_start": 217,
+     "n_rulers": 4,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 1,
+     "neighbor_strength": 1,
+     "external_resources": 2,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.713,
+    "risk_fit": 0.404,
+    "top_drivers": [
+     {
+      "key": "rival_rise",
+      "contribution": 0.769
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "age_at_start",
+      "contribution": 0.147
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Порта хандарды жиі ауыстырады; қалмақ шабуылдары"
+   },
+   {
+    "start": 1683,
+    "end": 1708,
+    "features": {
+     "age_at_start": 242,
+     "n_rulers": 8,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 1,
+     "territory_trend": -1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.53,
+    "risk_fit": 0.381,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "age_at_start",
+      "contribution": 0.173
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Хандардың жиі ауысуы; Азовтан айырылу (1696); Мәскеу «сыйлықтарының» тоқтатылуы (1700)"
+   },
+   {
+    "start": 1708,
+    "end": 1733,
+    "features": {
+     "age_at_start": 267,
+     "n_rulers": 5,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 0,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 1,
+     "territory_trend": 0,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 0,
+    "risk_oof": 0.396,
+    "risk_fit": 0.207,
+    "top_drivers": [
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "age_at_start",
+      "contribution": 0.199
+     },
+     {
+      "key": "territory_trend",
+      "contribution": 0.083
+     }
+    ],
+    "confidence": "M",
+    "key_events_kz": "Прут жорығы (1711); хандардың ауысуы"
+   },
+   {
+    "start": 1733,
+    "end": 1758,
+    "features": {
+     "age_at_start": 292,
+     "n_rulers": 7,
+     "long_ruler_death": 0,
+     "succession_conflict": 1,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 1,
+     "territory_trend": 0,
+     "disaster": 1,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 0,
+    "crisis_next": 1,
+    "risk_oof": 0.69,
+    "risk_fit": 0.469,
+    "top_drivers": [
+     {
+      "key": "disaster",
+      "contribution": 0.998
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     },
+     {
+      "key": "age_at_start",
+      "contribution": 0.225
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Минихтің басып кіруі, Бақшасарайдың өртелуі (1736); оба (1738)"
+   },
+   {
+    "start": 1758,
+    "end": 1783,
+    "features": {
+     "age_at_start": 317,
+     "n_rulers": 8,
+     "long_ruler_death": 0,
+     "succession_conflict": 2,
+     "major_defeat": 1,
+     "rival_rise": 0,
+     "neighbor_strength": 2,
+     "external_resources": 0,
+     "territory_trend": -1,
+     "disaster": 0,
+     "religion_change": 0,
+     "succession_system": 2,
+     "appanage_system": 0,
+     "sedentarization": 2
+    },
+    "collapse": 1,
+    "crisis_next": 1,
+    "risk_oof": 0.684,
+    "risk_fit": 0.598,
+    "top_drivers": [
+     {
+      "key": "territory_trend",
+      "contribution": 0.943
+     },
+     {
+      "key": "succession_conflict",
+      "contribution": 0.617
+     },
+     {
+      "key": "long_ruler_death",
+      "contribution": 0.349
+     }
+    ],
+    "confidence": "H",
+    "key_events_kz": "Ресейдің Қырымды басып алуы (1771); ноғай ордаларының бөлінуі (1770); Күшік-Қайнарджа (1774); IV Дәулет пен Шахин Гирейдің соғысы"
+   }
+  ]
+ }
+]

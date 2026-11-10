@@ -1,0 +1,122 @@
+[
+ {
+  "id": "H1",
+  "author": "Ибн Хальдун",
+  "text_kz": "Әулет қартайған сайын ыдырау тәуекелі өседі.",
+  "evidence": [
+   {
+    "key": "age_at_start",
+    "label_kz": "Мемлекеттің жасы (жыл)",
+    "coef_std": 0.077,
+    "ci95": [
+     -0.164,
+     0.594
+    ],
+    "direction_as_expected": true,
+    "ci_excludes_zero": false
+   }
+  ],
+  "status": "бағыты сәйкес, бірақ статистикалық дәлел әлсіз"
+ },
+ {
+  "id": "H2",
+  "author": "Т. Барфилд",
+  "text_kz": "Көшпелі империя отырықшы көршіден ресурс ағыны тоқтағанда әлсірейді.",
+  "evidence": [
+   {
+    "key": "external_resources",
+    "label_kz": "Сыртқы ресурстар (0–2)",
+    "coef_std": -0.063,
+    "ci95": [
+     -0.634,
+     0.318
+    ],
+    "direction_as_expected": true,
+    "ci_excludes_zero": false
+   },
+   {
+    "key": "neighbor_strength",
+    "label_kz": "Отырықшы көршінің күші (0–2)",
+    "coef_std": 0.01,
+    "ci95": [
+     -0.549,
+     0.493
+    ],
+    "direction_as_expected": true,
+    "ci_excludes_zero": false
+   }
+  ],
+  "status": "бағыты сәйкес, бірақ статистикалық дәлел әлсіз"
+ },
+ {
+  "id": "H3",
+  "author": "Этнографиялық гипотеза",
+  "text_kz": "Тақ таласы, ұлыстық жүйе және жанама мұрагерлік тәуекелді арттырады.",
+  "evidence": [
+   {
+    "key": "succession_conflict",
+    "label_kz": "Тақ таласы (0–2)",
+    "coef_std": 0.533,
+    "ci95": [
+     0.101,
+     0.983
+    ],
+    "direction_as_expected": true,
+    "ci_excludes_zero": true
+   },
+   {
+    "key": "appanage_system",
+    "label_kz": "Ұлыстық (үлестік) жүйе",
+    "coef_std": 0.002,
+    "ci95": [
+     -0.44,
+     0.497
+    ],
+    "direction_as_expected": true,
+    "ci_excludes_zero": false
+   },
+   {
+    "key": "succession_system",
+    "label_kz": "Мұрагерлік жүйесі: 0 әкеден балаға, 1 аралас, 2 ағадан ініге",
+    "coef_std": -0.071,
+    "ci95": [
+     -0.562,
+     0.622
+    ],
+    "direction_as_expected": false,
+    "ci_excludes_zero": false
+   },
+   {
+    "key": "long_ruler_death",
+    "label_kz": "Ұзақ билеген билеушінің өлімі",
+    "coef_std": -0.356,
+    "ci95": [
+     -0.798,
+     0.154
+    ],
+    "direction_as_expected": false,
+    "ci_excludes_zero": false
+   }
+  ],
+  "status": "ішінара расталды"
+ },
+ {
+  "id": "H4",
+  "author": "Экологиялық гипотеза",
+  "text_kz": "Жұт, ашаршылық және індет ыдырауды жақындатады.",
+  "evidence": [
+   {
+    "key": "disaster",
+    "label_kz": "Жұт, ашаршылық, індет",
+    "coef_std": 0.41,
+    "ci95": [
+     -0.095,
+     1.026
+    ],
+    "direction_as_expected": true,
+    "ci_excludes_zero": false
+   }
+  ],
+  "status": "бағыты сәйкес, бірақ статистикалық дәлел әлсіз"
+ }
+]

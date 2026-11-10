@@ -1,0 +1,111 @@
+{
+ "n_rows": 104,
+ "n_polities": 21,
+ "n_collapses": 21,
+ "validation": "Leave-One-Polity-Out",
+ "best_model": "logreg__all",
+ "results": {
+  "collapse": {
+   "baseline_age": {
+    "roc_auc": 0.519,
+    "pr_auc": 0.266,
+    "brier": 0.166,
+    "positives": 21,
+    "n": 104
+   },
+   "logreg__all": {
+    "roc_auc": 0.743,
+    "pr_auc": 0.373,
+    "brier": 0.21,
+    "positives": 21,
+    "n": 104
+   },
+   "logreg__no_territory": {
+    "roc_auc": 0.723,
+    "pr_auc": 0.349,
+    "brier": 0.223,
+    "positives": 21,
+    "n": 104
+   },
+   "random_forest__all": {
+    "roc_auc": 0.758,
+    "pr_auc": 0.379,
+    "brier": 0.185,
+    "positives": 21,
+    "n": 104
+   },
+   "random_forest__no_territory": {
+    "roc_auc": 0.719,
+    "pr_auc": 0.323,
+    "brier": 0.197,
+    "positives": 21,
+    "n": 104
+   },
+   "gboost__all": {
+    "roc_auc": 0.72,
+    "pr_auc": 0.377,
+    "brier": 0.176,
+    "positives": 21,
+    "n": 104
+   },
+   "gboost__no_territory": {
+    "roc_auc": 0.695,
+    "pr_auc": 0.346,
+    "brier": 0.179,
+    "positives": 21,
+    "n": 104
+   }
+  },
+  "crisis_next": {
+   "baseline_age": {
+    "roc_auc": 0.371,
+    "pr_auc": 0.491,
+    "brier": 0.262,
+    "positives": 56,
+    "n": 104
+   },
+   "logreg__all": {
+    "roc_auc": 0.528,
+    "pr_auc": 0.536,
+    "brier": 0.281,
+    "positives": 56,
+    "n": 104
+   },
+   "logreg__no_territory": {
+    "roc_auc": 0.545,
+    "pr_auc": 0.545,
+    "brier": 0.274,
+    "positives": 56,
+    "n": 104
+   },
+   "random_forest__all": {
+    "roc_auc": 0.583,
+    "pr_auc": 0.584,
+    "brier": 0.248,
+    "positives": 56,
+    "n": 104
+   },
+   "random_forest__no_territory": {
+    "roc_auc": 0.58,
+    "pr_auc": 0.577,
+    "brier": 0.251,
+    "positives": 56,
+    "n": 104
+   },
+   "gboost__all": {
+    "roc_auc": 0.554,
+    "pr_auc": 0.557,
+    "brier": 0.294,
+    "positives": 56,
+    "n": 104
+   },
+   "gboost__no_territory": {
+    "roc_auc": 0.529,
+    "pr_auc": 0.546,
+    "brier": 0.303,
+    "positives": 56,
+    "n": 104
+   }
+  }
+ }
+}

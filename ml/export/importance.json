@@ -1,0 +1,212 @@
+[
+ {
+  "key": "territory_trend",
+  "label_kz": "Аумақ өзгерісі (−1/0/+1)",
+  "label_ru": "Изменение территории (−1/0/+1)",
+  "label_en": "Territory trend (−1/0/+1)",
+  "group": "territory",
+  "coef_std": -0.626,
+  "odds_ratio_per_sd": 0.535,
+  "ci95": [
+   -1.204,
+   -0.123
+  ],
+  "share_bootstrap_positive": 0.005,
+  "rf_permutation": 0.0514
+ },
+ {
+  "key": "succession_conflict",
+  "label_kz": "Тақ таласы (0–2)",
+  "label_ru": "Борьба за престол (0–2)",
+  "label_en": "Succession conflict (0–2)",
+  "group": "political",
+  "coef_std": 0.533,
+  "odds_ratio_per_sd": 1.704,
+  "ci95": [
+   0.101,
+   0.983
+  ],
+  "share_bootstrap_positive": 0.989,
+  "rf_permutation": 0.0158
+ },
+ {
+  "key": "rival_rise",
+  "label_kz": "Бәсекелестің күшеюі",
+  "label_ru": "Усиление соперника",
+  "label_en": "Rise of a rival",
+  "group": "military",
+  "coef_std": 0.513,
+  "odds_ratio_per_sd": 1.67,
+  "ci95": [
+   0.053,
+   0.993
+  ],
+  "share_bootstrap_positive": 0.983,
+  "rf_permutation": 0.0455
+ },
+ {
+  "key": "sedentarization",
+  "label_kz": "Отырықшылану деңгейі (0–2)",
+  "label_ru": "Степень оседлости (0–2)",
+  "label_en": "Sedentarization (0–2)",
+  "group": "ethnography",
+  "coef_std": -0.437,
+  "odds_ratio_per_sd": 0.646,
+  "ci95": [
+   -1.005,
+   0.287
+  ],
+  "share_bootstrap_positive": 0.142,
+  "rf_permutation": 0.015
+ },
+ {
+  "key": "disaster",
+  "label_kz": "Жұт, ашаршылық, індет",
+  "label_ru": "Джут, голод, эпидемия",
+  "label_en": "Dzud, famine, epidemic",
+  "group": "ecology",
+  "coef_std": 0.41,
+  "odds_ratio_per_sd": 1.506,
+  "ci95": [
+   -0.095,
+   1.026
+  ],
+  "share_bootstrap_positive": 0.946,
+  "rf_permutation": 0.0295
+ },
+ {
+  "key": "long_ruler_death",
+  "label_kz": "Ұзақ билеген билеушінің өлімі",
+  "label_ru": "Смерть долго правившего правителя",
+  "label_en": "Death of a long-reigning ruler",
+  "group": "political",
+  "coef_std": -0.356,
+  "odds_ratio_per_sd": 0.701,
+  "ci95": [
+   -0.798,
+   0.154
+  ],
+  "share_bootstrap_positive": 0.095,
+  "rf_permutation": 0.0063
+ },
+ {
+  "key": "religion_change",
+  "label_kz": "Дінді ауыстыру",
+  "label_ru": "Смена религии",
+  "label_en": "Religious change",
+  "group": "culture",
+  "coef_std": 0.105,
+  "odds_ratio_per_sd": 1.111,
+  "ci95": [
+   -0.399,
+   0.478
+  ],
+  "share_bootstrap_positive": 0.62,
+  "rf_permutation": -0.0001
+ },
+ {
+  "key": "age_at_start",
+  "label_kz": "Мемлекеттің жасы (жыл)",
+  "label_ru": "Возраст государства (лет)",
+  "label_en": "State age (years)",
+  "group": "time",
+  "coef_std": 0.077,
+  "odds_ratio_per_sd": 1.08,
+  "ci95": [
+   -0.164,
+   0.594
+  ],
+  "share_bootstrap_positive": 0.843,
+  "rf_permutation": 0.0232
+ },
+ {
+  "key": "succession_system",
+  "label_kz": "Мұрагерлік жүйесі: 0 әкеден балаға, 1 аралас, 2 ағадан ініге",
+  "label_ru": "Наследование: 0 отец→сын, 1 смешанное, 2 брат→брат",
+  "label_en": "Succession: 0 lineal, 1 mixed, 2 lateral",
+  "group": "ethnography",
+  "coef_std": -0.071,
+  "odds_ratio_per_sd": 0.931,
+  "ci95": [
+   -0.562,
+   0.622
+  ],
+  "share_bootstrap_positive": 0.457,
+  "rf_permutation": 0.004
+ },
+ {
+  "key": "external_resources",
+  "label_kz": "Сыртқы ресурстар (0–2)",
+  "label_ru": "Внешние ресурсы (0–2)",
+  "label_en": "External resources (0–2)",
+  "group": "economic",
+  "coef_std": -0.063,
+  "odds_ratio_per_sd": 0.939,
+  "ci95": [
+   -0.634,
+   0.318
+  ],
+  "share_bootstrap_positive": 0.274,
+  "rf_permutation": 0.0107
+ },
+ {
+  "key": "major_defeat",
+  "label_kz": "Ірі сыртқы жеңіліс",
+  "label_ru": "Крупное внешнее поражение",
+  "label_en": "Major external defeat",
+  "group": "military",
+  "coef_std": 0.02,
+  "odds_ratio_per_sd": 1.02,
+  "ci95": [
+   -0.451,
+   0.485
+  ],
+  "share_bootstrap_positive": 0.562,
+  "rf_permutation": 0.0067
+ },
+ {
+  "key": "n_rulers",
+  "label_kz": "Билеушілер саны (25 жылда)",
+  "label_ru": "Число правителей за 25 лет",
+  "label_en": "Rulers per 25 years",
+  "group": "political",
+  "coef_std": -0.011,
+  "odds_ratio_per_sd": 0.989,
+  "ci95": [
+   -0.473,
+   0.581
+  ],
+  "share_bootstrap_positive": 0.523,
+  "rf_permutation": 0.025
+ },
+ {
+  "key": "neighbor_strength",
+  "label_kz": "Отырықшы көршінің күші (0–2)",
+  "label_ru": "Сила оседлого соседа (0–2)",
+  "label_en": "Sedentary neighbour strength (0–2)",
+  "group": "external",
+  "coef_std": 0.01,
+  "odds_ratio_per_sd": 1.01,
+  "ci95": [
+   -0.549,
+   0.493
+  ],
+  "share_bootstrap_positive": 0.451,
+  "rf_permutation": 0.0028
+ },
+ {
+  "key": "appanage_system",
+  "label_kz": "Ұлыстық (үлестік) жүйе",
+  "label_ru": "Удельная (улусная) система",
+  "label_en": "Appanage (ulus) system",
+  "group": "ethnography",
+  "coef_std": 0.002,
+  "odds_ratio_per_sd": 1.002,
+  "ci95": [
+   -0.44,
+   0.497
+  ],
+  "share_bootstrap_positive": 0.473,
+  "rf_permutation": 0.0042
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "key": "succession_conflict",
+  "label_kz": "Тақ таласы (0–2)",
+  "hazard_ratio": 1.291,
+  "ci95": [
+   0.724,
+   2.3
+  ],
+  "p": 0.3868
+ },
+ {
+  "key": "rival_rise",
+  "label_kz": "Бәсекелестің күшеюі",
+  "hazard_ratio": 1.982,
+  "ci95": [
+   0.884,
+   4.445
+  ],
+  "p": 0.0967
+ },
+ {
+  "key": "disaster",
+  "label_kz": "Жұт, ашаршылық, індет",
+  "hazard_ratio": 1.807,
+  "ci95": [
+   0.675,
+   4.838
+  ],
+  "p": 0.2393
+ },
+ {
+  "key": "external_resources",
+  "label_kz": "Сыртқы ресурстар (0–2)",
+  "hazard_ratio": 0.898,
+  "ci95": [
+   0.517,
+   1.562
+  ],
+  "p": 0.7042
+ },
+ {
+  "key": "major_defeat",
+  "label_kz": "Ірі сыртқы жеңіліс",
+  "hazard_ratio": 1.229,
+  "ci95": [
+   0.559,
+   2.702
+  ],
+  "p": 0.6074
+ },
+ {
+  "key": "neighbor_strength",
+  "label_kz": "Отырықшы көршінің күші (0–2)",
+  "hazard_ratio": 0.919,
+  "ci95": [
+   0.517,
+   1.634
+  ],
+  "p": 0.7745
+ }
+]
